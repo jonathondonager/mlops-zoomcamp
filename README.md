@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-personal work for a course
+personal work for datatalks.club course. 
