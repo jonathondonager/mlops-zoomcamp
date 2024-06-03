@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/mlruns/0/fb79aad63f6a426485dd95252365360f/artifacts
+end_time: 1717433303272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb79aad63f6a426485dd95252365360f
+run_name: thoughtful-stag-820
+run_uuid: fb79aad63f6a426485dd95252365360f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717433293165
+status: 3
+tags: []
+user_id: codespace
